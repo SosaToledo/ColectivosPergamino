@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ColectivosPergamino</string>
+    <string name="title_activity_indicaciones">En Camino</string>
+    <string name="tu_ubicacion_actual">Tu ubicacion actual</string>
+    <string name="destino">Destino</string>
+    <string name="buscar">Buscar</string>
+    <string name="noPuedoAccederAUbicacion">La aplicación no funcionara sin tu localización</string>
+    <string name="userLocation">Tu ubicacion</string>
+    <string name="problemaAlEncontrarTuUbicacion">Problema al encontrar tu ubicacion</string>
+</resources>

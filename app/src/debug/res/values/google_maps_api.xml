@@ -1,0 +1,7 @@
+<resources>
+    <!--To get one, follow this link, follow the directions and press "Create" at the end:-->
+
+    <!--https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=F2:3F:81:96:A3:26:46:AF:0B:58:B3:1C:A8:4F:C1:7A:DC:D7:D4:51%3Bar.com.thinco.colectivospergamino-->
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAiaTztoeTThsJzAALvO3MoIyori4ndOSI</string>
+</resources>
